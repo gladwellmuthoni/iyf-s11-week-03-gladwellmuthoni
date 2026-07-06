@@ -14,7 +14,6 @@ I developed a multi-page, responsive personal portfolio website from scratch usi
 - CSS3
 - GitHub
 - Git
-- git commands
 
 ## Features
 -Multi-page navigation: Smooth movement between Home, About, Projects, and Contact sections.

@@ -14,6 +14,7 @@ I developed a multi-page, responsive personal portfolio website from scratch usi
 - CSS3
 - GitHub
 - Git
+- git commands
 
 ## Features
 -Multi-page navigation: Smooth movement between Home, About, Projects, and Contact sections.
@@ -23,6 +24,8 @@ I developed a multi-page, responsive personal portfolio website from scratch usi
 -Functional Contact Form: A dedicated page for user inquiries.
 
 -Consistent Design: Centralized styling via external CSS with page-specific overrides.
+
+-Using features like code space.
 
 ## How to Run
 1. Clone this repository: git clone [https://github.com/gladwellmuthoni/iyf-s11-week-01-gladwellmuthoni.git](https://github.com/gladwellmuthoni/iyf-s11-week-01-gladwellmuthoni.git)

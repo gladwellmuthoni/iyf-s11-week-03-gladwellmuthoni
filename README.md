@@ -1,11 +1,10 @@
 # iyf-s11-week-03-gladwellmuthoni
-# iyf-s11-week-02-gladwellmuthoni
-# Week 02: Personal responsive styled portfolio website
+# Week 03: Personal responsive styled portfolio website
 
 ## Author
 - **Name:** Gladwell Muthoni
 - **GitHub:** @gladwellmuthoni
-- **Date:** June 30, 2026
+- **Date:** July 06, 2026
 
 ## Project Description
 I developed a multi-page, responsive personal portfolio website from scratch using HTML5 and CSS3. The project serves as a digital hub to showcase my technical skills, professional background, and completed projects. I built this to master foundational web architecture, CSS layout systems, and professional version control workflows.

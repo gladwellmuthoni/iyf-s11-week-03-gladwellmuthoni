@@ -5,7 +5,7 @@ Navigation Commands
 
 -cd (Change Directory): Allows you to switch your focus from your current folder to another. It is the primary tool for moving between "boxes."
 
--cd ..: The 'up' button.It moves you one level back toward the root of the file system tree.
+-cd ..: The "up" button.It moves you one level back toward the root of the file system tree.
 
 -cd ~: The "Home" button; instantly jumps you back to your starting user directory, regardless of how deep you are in the folder structure.
 
